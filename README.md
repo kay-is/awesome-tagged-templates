@@ -11,11 +11,11 @@
 ## Libraries
 
 ### CSS
-- [emotion](https://emotion.sh)
-- [styled components](https://www.styled-components.com/)
+- [emotion](https://emotion.sh) _CSS-in-JS library designed for high performance style composition_
+- [styled components](https://www.styled-components.com/) _Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress_
 
 ### Date
-- [fdate](https://github.com/3846masa/fdate)
+- [fdate](https://github.com/3846masa/fdate) _Light-weight, faster datetime formatter for modern browsers._
 
 ### General 
 - [common-tags](https://github.com/declandewet/common-tags) _Useful template literal tags for dealing with strings_
