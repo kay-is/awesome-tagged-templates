@@ -12,6 +12,7 @@
 
 ### General 
 - [common-tags](https://github.com/declandewet/common-tags)
+- [tag-reduce](https://github.com/bredele/tag-reduce)
 
 ### HTTP
 - [Karin](https://github.com/vaheqelyan/karin)
@@ -20,17 +21,31 @@
 - [HTM](https://github.com/developit/htm)
 - [t7](https://github.com/trueadm/t7)
 - [hyperHTML](https://github.com/WebReflection/hyperHTML)
+- [viperHTML](https://github.com/WebReflection/viperHTML)
 - [genel](https://github.com/capsidjs/genel)
+- [facon](https://github.com/terkelg/facon)
 
 ### CSS
 - [emotion](https://emotion.sh)
 - [styled components](https://www.styled-components.com/)
 
-### GraphQL
+### WebComponents
+- [snugsi](https://github.com/devpunks/snuggsi)
 
+### GraphQL
 - [graphql-tag](https://github.com/apollographql/graphql-tag)
 
 ### YAML
-
 - [yaml-tag](https://github.com/jeanfredrik/yaml-tag)
 
+### Markdown
+- [marli](https://github.com/YerkoPalma/marli)
+
+### Localization
+- [ttag](https://github.com/ttag-org/ttag)
+
+### SQL 
+- [sql](https://github.com/sequencework/sql)
+
+### Date
+- [fdate](https://github.com/3846masa/fdate)
