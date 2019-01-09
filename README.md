@@ -10,6 +10,9 @@
 
 ## Libraries
 
+### General 
+- [common-tags](https://github.com/declandewet/common-tags)
+
 ### HTTP
 - [Karin](https://github.com/vaheqelyan/karin)
 
@@ -17,6 +20,7 @@
 - [HTM](https://github.com/developit/htm)
 - [t7](https://github.com/trueadm/t7)
 - [hyperHTML](https://github.com/WebReflection/hyperHTML)
+- [genel](https://github.com/capsidjs/genel)
 
 ### CSS
 - [emotion](https://emotion.sh)
@@ -25,3 +29,8 @@
 ### GraphQL
 
 - [graphql-tag](https://github.com/apollographql/graphql-tag)
+
+### YAML
+
+- [yaml-tag](https://github.com/jeanfredrik/yaml-tag)
+
