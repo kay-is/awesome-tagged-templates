@@ -21,3 +21,7 @@
 ### CSS
 - [emotion](https://emotion.sh)
 - [styled components](https://www.styled-components.com/)
+
+### GraphQL
+
+- [graphql-tag](https://github.com/apollographql/graphql-tag)
