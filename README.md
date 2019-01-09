@@ -34,7 +34,7 @@
 - [viperHTML](https://github.com/WebReflection/viperHTML) _Isomorphic hyperHTML_
 
 ### HTTP
-- [Karin](https://github.com/vaheqelyan/karin) _An elegant promise based HTTP client for the browser and node.js _
+- [Karin](https://github.com/vaheqelyan/karin) _An elegant promise based HTTP client for the browser and node.js_
 
 ### Localization
 - [ttag](https://github.com/ttag-org/ttag) _simple approach for javascript localization_
