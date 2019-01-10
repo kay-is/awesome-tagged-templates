@@ -20,6 +20,9 @@
 
 ### General 
 - [common-tags](https://github.com/declandewet/common-tags) _Useful template literal tags for dealing with strings_
+- [es6-template-string](https://github.com/medikoo/es6-template-string) _Compile and resolve template strings notation as specified in ES6_
+- [is-tagged](https://github.com/schwarzkopfb/is-tagged) _Check whether a function call is initiated by a tagged template string or invoked in a regular way_
+- [tage](https://github.com/bengl/tage) _template tags easily made from other functions_
 - [tag-reduce](https://github.com/bredele/tag-reduce) _Reduce tagged template literals to a single value_
 
 ### GraphQL
@@ -35,15 +38,28 @@
 
 ### HTTP
 - [Karin](https://github.com/vaheqelyan/karin) _An elegant promise based HTTP client for the browser and node.js_
+- [url-escape-tag](https://github.com/ruimarinho/url-escape-tag) _A template tag for escaping url parameters based on ES2015 tagged templates_
 
 ### Localization
+- [i18n Tagged Template Literals](https://github.com/skolmer/es2015-i18n-tag) _ES2015 template literal tag for i18n and l10n (translation and internationalization)_
 - [ttag](https://github.com/ttag-org/ttag) _simple approach for javascript localization_
 
 ### Markdown
 - [marli](https://github.com/YerkoPalma/marli) _Markdown tagged template literal renderer_
 
-### SQL 
+### Regular Expressions
+- [regexr](https://github.com/trusktr/regexr) _For composing regular expressions without the need for double-escaping inside strings._
+
+### Shell
+- [shell-escape-tag](https://www.npmjs.com/package/shell-escape-tag) _An ES6 template tag which escapes parameters for interpolation into shell commands_
+
+### SQL
+- [node-sql-composer](https://github.com/rafeememon/node-sql-composer) _Composable SQL template strings for Node.js_
+- [sequelize-sql-tag](https://github.com/ruimarinho/sequelize-sql-tag) _A template tag for writing elegant parameterized SQL queries based on ES2015 tagged template literals using Sequelize_
 - [sql](https://github.com/sequencework/sql) _Javascript tag to format SQL template literals_
+- [sq-tag](https://github.com/ruimarinho/sql-tag) _A template tag for writing elegant parameterized SQL queries based on ES2015 tagged template literals_
+- [sql-tags](https://github.com/snooc/sql-tags) _ES6 tagged template string functions for SQL statements._
+- [SQL Template Strings](https://github.com/felixfbecker/node-sql-template-strings) _ES6 tagged template strings for prepared SQL statements_
 
 ### WebComponents
 - [snuggsi](https://github.com/devpunks/snuggsi) _Easy Web Components in ~1kB_
