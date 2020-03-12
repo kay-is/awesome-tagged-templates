@@ -1,6 +1,6 @@
 # Awesome Tagged Templates
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+If you find something new and interesting, feel free to send a PR :)
 
 ## Learning Resources
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_templates)
