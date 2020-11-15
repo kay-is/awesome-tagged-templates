@@ -25,6 +25,7 @@ If you find something new and interesting, feel free to send a PR :)
 - [is-tagged](https://github.com/schwarzkopfb/is-tagged) _Check whether a function call is initiated by a tagged template string or invoked in a regular way_
 - [tage](https://github.com/bengl/tage) _template tags easily made from other functions_
 - [tag-reduce](https://github.com/bredele/tag-reduce) _Reduce tagged template literals to a single value_
+- [usefulTags](https://github.com/TheThunderGuyS/usefulTags) _A tiny JavaScript library incorporating some useful template tag functions._
 
 ### GraphQL
 - [graphql-tag](https://github.com/apollographql/graphql-tag) _A JavaScript template literal tag that parses GraphQL queries_
