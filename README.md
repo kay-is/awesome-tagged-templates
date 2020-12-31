@@ -31,9 +31,11 @@ If you find something new and interesting, feel free to send a PR :)
 - [graphql-tag](https://github.com/apollographql/graphql-tag) _A JavaScript template literal tag that parses GraphQL queries_
 
 ### HTML
+- [escape-html-template-tag](https://github.com/Janpot/escape-html-template-tag) _Escapes interpolated values in HTML strings_
 - [facon](https://github.com/terkelg/facon) _Tiny utility (272B) to create DOM elements with manner_
 - [genel](https://github.com/capsidjs/genel) _Utility for generating html elements with tagged`template literal`. Only 649 bytes._
 - [HTM](https://github.com/developit/htm) _Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support._
+- [html-template-tag](https://github.com/AntonioVdlC/html-template-tag) _Escapes interpolated values in HTML strings_
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) _A Fast & Light Virtual DOM Alternative_
 - [t7](https://github.com/trueadm/t7) _Lightweight virtual DOM templating library_
 - [viperHTML](https://github.com/WebReflection/viperHTML) _Isomorphic hyperHTML_
