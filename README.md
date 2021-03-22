@@ -44,6 +44,10 @@ If you find something new and interesting, feel free to send a PR :)
 - [Karin](https://github.com/vaheqelyan/karin) _An elegant promise based HTTP client for the browser and node.js_
 - [url-escape-tag](https://github.com/ruimarinho/url-escape-tag) _A template tag for escaping url parameters based on ES2015 tagged templates_
 
+### IaC
+
+- [concise-constructs](https://github.com/awslabs/concise-constructs) _A utility for defining [CDK] constructs without ever needing to think about scope._
+
 ### Localization
 - [i18n Tagged Template Literals](https://github.com/skolmer/es2015-i18n-tag) _ES2015 template literal tag for i18n and l10n (translation and internationalization)_
 - [ttag](https://github.com/ttag-org/ttag) _simple approach for javascript localization_
@@ -70,6 +74,3 @@ If you find something new and interesting, feel free to send a PR :)
 
 ### YAML
 - [yaml-tag](https://github.com/jeanfredrik/yaml-tag) _Template literal tag function for YAML in JS_
-
-
-
