@@ -39,6 +39,7 @@ If you find something new and interesting, feel free to send a PR :)
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) _A Fast & Light Virtual DOM Alternative_
 - [t7](https://github.com/trueadm/t7) _Lightweight virtual DOM templating library_
 - [viperHTML](https://github.com/WebReflection/viperHTML) _Isomorphic hyperHTML_
+- [macon](https://github.com/LoganTann/macon) _Tiny utility (430B) to create reactive jquery components using a JSX-like syntax_
 
 ### HTTP
 - [Karin](https://github.com/vaheqelyan/karin) _An elegant promise based HTTP client for the browser and node.js_
